@@ -1,2 +1,2 @@
 # Ngombi
-This is an streaming music player app
+This is a streaming music player app
